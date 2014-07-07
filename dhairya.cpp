@@ -4,5 +4,5 @@ void main()
 {
 clrscr();
 cout<<"it worked!!";
-getch()
+getch();
 }
